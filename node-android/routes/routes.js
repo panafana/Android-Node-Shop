@@ -1,4 +1,4 @@
-var chgpass = require('config/chgpass');
+
 var register = require('config/register');
 var login = require('config/login');
 
